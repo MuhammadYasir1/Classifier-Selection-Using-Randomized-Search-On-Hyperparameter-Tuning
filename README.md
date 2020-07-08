@@ -1,4 +1,5 @@
-# Classifier-Selection-Using-Randomized-Search-On-Hyperparameter-Tuning
+# Classifier-Selection-Using-Randomized-Search-On-Hyperparameter-Tuning 
+Making use of Grid Search on AdaBoost Classifier for Hyperparameter Tuning.
 # Supervised Learning
 ## Project: Parameter Tuning using Grid Search 
 
